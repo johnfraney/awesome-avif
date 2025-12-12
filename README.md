@@ -14,7 +14,6 @@ A collection of awesome resources related to AVIF and AVIFS, the AV1 image forma
 ### Converters
 
 - [Squoosh](https://squoosh.app/) online converter by [Google Chrome Labs](https://github.com/GoogleChromeLabs)
-- [go-avif.com](https://go-avif.com/) online converter
 - [Responsive Image Generator](https://johnfraney.ca/tools/responsive-image-generator/) by yours truly
 
 ### Mobile support
@@ -30,7 +29,7 @@ A collection of awesome resources related to AVIF and AVIFS, the AV1 image forma
 
 ### Converters
 
-- [gif2avif](https://gif2avif.com/) online converter
+- [Ezgif AVIF tools](https://ezgif.com/avif-maker), convert images, GIFs and videos to AVIF (online)
 
 ## Technical information
 
