@@ -15,6 +15,8 @@ A collection of awesome resources related to AVIF and AVIFS, the AV1 image forma
 
 - [Squoosh](https://squoosh.app/) online converter by [Google Chrome Labs](https://github.com/GoogleChromeLabs)
 - [Responsive Image Generator](https://johnfraney.ca/tools/responsive-image-generator/) by yours truly
+- [AVIF to JPG](https://avif-to-jpg.org) - Browser-based batch converter.
+- [AVIF to PNG](https://avif-to-png.org) - Browser-based batch converter.
 
 ### Mobile support
 
