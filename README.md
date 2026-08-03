@@ -18,6 +18,7 @@ A collection of awesome resources related to AVIF and AVIFS, the AV1 image forma
 - [AVIF to JPG](https://avif-to-jpg.org) - Browser-based batch converter.
 - [Square Face Generator AVIF to JPG](https://squareface-generator.xyz/avif-to-jpg) - Browser-local AVIF to JPG converter with no upload.
 - [AVIF to PNG](https://avif-to-png.org) - Browser-based batch converter.
+- [AVIF to WebP Converter](https://alltoolsverse.com/tools/avif-to-webp/) - Browser-based AVIF to WebP converter with adjustable quality and client-side processing.
 - [iLoveAVIF](https://iloveavif.com) - Free browser-based converter and compressor for AVIF, JPG, PNG, WebP, GIF, and SVG. 17 tools, no file uploads — all processing is client-side. Also offers a developer API for server-side conversions.
 
 ### Mobile support
