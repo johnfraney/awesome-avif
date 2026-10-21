@@ -21,6 +21,7 @@ A collection of awesome resources related to AVIF and AVIFS, the AV1 image forma
 - [AVIF to WebP Converter](https://alltoolsverse.com/tools/avif-to-webp/) - Browser-based AVIF to WebP converter with adjustable quality and client-side processing.
 - [iLoveAVIF](https://iloveavif.com) - Free browser-based converter and compressor for AVIF, JPG, PNG, WebP, GIF, and SVG. 17 tools, no file uploads — all processing is client-side. Also offers a developer API for server-side conversions.
 - [AVIFCrate](https://avifcrate.com/) - Browser-local AVIF to JPG/JPEG converter with bulk export, quality controls and 12-bit support; files never leave your device.
+- [Stayput AVIF converters](https://stayput.dev/avif-to-jpg) - Browser-based AVIF to JPG, PNG and WebP converters, plus JPG and PNG to AVIF. Free, no account, and files are not uploaded. Open source (MIT).
 
 ### Mobile support
 
