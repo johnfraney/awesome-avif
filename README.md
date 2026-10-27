@@ -13,6 +13,7 @@ A collection of awesome resources related to AVIF and AVIFS, the AV1 image forma
 
 ### Converters
 
+- [ImgFlow](https://imgflow.taoliapp.com/en/) - Free browser-based converter and compressor for AVIF, JPG, PNG, WebP, and HEIC. Files stay on-device.
 - [Squoosh](https://squoosh.app/) online converter by [Google Chrome Labs](https://github.com/GoogleChromeLabs)
 - [Responsive Image Generator](https://johnfraney.ca/tools/responsive-image-generator/) by yours truly
 - [AVIF to JPG](https://avif-to-jpg.org) - Browser-based batch converter.
